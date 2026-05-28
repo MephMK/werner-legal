@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Wirtschaftsrecht",
+    "slug": "wirtschaftsrecht.html",
+    "intro": "Rechtliche Begleitung wirtschaftlicher Entscheidungen, Vertrags- und Strukturfragen im unternehmerischen Umfeld."
+  },
+  {
+    "title": "Vertragsrecht",
+    "slug": "vertragsrecht.html",
+    "intro": "Vertragsgestaltung, Prüfung, Verhandlungsbegleitung und strukturierte Risikoanalyse im nationalen und internationalen Kontext."
+  },
+  {
+    "title": "Gesellschaftsrecht",
+    "slug": "gesellschaftsrecht.html",
+    "intro": "Gesellschafterstrukturen, Organfragen und Governance-Themen mit Blick auf Unternehmen, Beteiligte und externe Berater."
+  },
+  {
+    "title": "Internationales Recht",
+    "slug": "internationales-recht.html",
+    "intro": "Cross-Border Legal Advisory, internationale Vertragsbeziehungen und Koordination mit lokalen Experten."
+  },
+  {
+    "title": "Compliance Advisory",
+    "slug": "compliance.html",
+    "intro": "Präventive Einordnung von Organisations-, Vertrags- und Geschäftsführungsrisiken."
+  },
+  {
+    "title": "Transaktionen",
+    "slug": "transaktionen.html",
+    "intro": "Rechtliche Strukturierung, Due-Diligence-Koordination und Verhandlungsbegleitung bei Beteiligungen und Verkäufen."
+  },
+  {
+    "title": "Strategic Legal Counsel",
+    "slug": "advisory-counsel.html",
+    "intro": "Laufende strategische Rechtsberatung für Unternehmer, Geschäftsführung und komplexe Entscheidungslagen."
+  }
+]

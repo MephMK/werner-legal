@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Dr. Werner &amp; Associates Logo Platzhalter</title>
+  <desc id="desc">Abstraktes Monogramm mit dunklem Blau und sandfarbenen Linien.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2742"/>
+      <stop offset="100%" stop-color="#183a63"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d8c39a"/>
+      <stop offset="100%" stop-color="#b89b63"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="640" rx="96" fill="url(#bg)"/>
+  <path d="M148 468V172h74l98 142 98-142h74v296h-78V304l-94 132h-4l-96-132v164z" fill="none" stroke="url(#accent)" stroke-width="24" stroke-linejoin="round"/>
+  <path d="M146 500h348" stroke="#ffffff" stroke-opacity=".18" stroke-width="8" stroke-linecap="round"/>
+</svg>
